@@ -1,0 +1,23 @@
+.cuadradoGrande{
+  width:256px;
+  height:256px;
+  border-color:blue;
+  border-style:solid;
+  border-width:4px;
+  
+}
+.cuadradoChico{
+  width:14px;
+  height:14px;
+  border-color:black;
+  border-style:solid;
+  float:left;
+  border-width:1px;
+  background-color:green;
+}
+.cuadradochico:hover {
+  background-color:gold;
+}
+.cambiodecolor{
+  background-color:gray;
+}
